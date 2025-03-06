@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Suprisha Chaudhary</h1> 
+
+<p align="center">
+  <img src="Photo.jpg" alt="Suprisha Chaudhary" width="150" height="200" 
+  style="border-radius: 50%; border: 5px solid #0e75b6; padding: 5px;">
+</p>
+
+<h3 align="center">A Finance Enthusiast with expertise in Financial Analysis, Power BI, and Investment Strategies</h3>
+
+A Finance Enthusiast with expertise in Financial Analysis, Power BI, and Investment Strategies</h3>
 
 🔹 **Education:**  
 - Pursuing PGPM in Finance (IBS Gurgaon, 2025)  
