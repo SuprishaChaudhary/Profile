@@ -7,23 +7,59 @@ Hello World , Here is my Profile
   <img src="https://komarev.com/ghpvc/?username=suprishachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="suprishachaudhary" /> 
 </p>
 
-- 🎓 **Education:**  
-  - **PGPM in Finance** (Pursuing) - **IBS Gurgaon** (2025, 6.85 CGPA)  
-  - **Bachelor of Arts** - **Delhi University** (2022, 57.24%)  
-  - **XII (CBSE)** - **Queen Mary’s School** (2018, 66.6%)  
-  - **X (CBSE)** - **Queen Mary’s School** (2016, 6.6 CGPA)  
+## 🎓 Education  
+- **PGPM in Finance** (Pursuing) - **IBS Gurgaon** (2025, 6.85 CGPA)  
+- **Bachelor of Arts** - **Delhi University** (2022, 57.24%)  
+- **XII (CBSE)** - **Queen Mary’s School** (2018, 66.6%)  
+- **X (CBSE)** - **Queen Mary’s School** (2016, 6.6 CGPA)  
 
-- 🔭 I’m currently working on **Financial analysis and data visualization projects**  
+## 💼 Work Experience  
+**Operations Manager, Paisa Arrangers** (Oct 2021 - May 2022)  
+- Managed the smooth flow of loan applications, approvals, and disbursements (Personal Loan, Home Loan, etc.).  
+- Ensured adherence to all relevant regulations and loan origination standards.  
+- Maintained high levels of client satisfaction through effective communication and problem-solving.  
 
-- 🌱 I’m currently learning **Financial Modeling (Finance Veda), Power BI Dashboard (Excelir), Generative AI (Google), and Bloomberg Market Concepts**  
+## 🔭 Current Projects  
+- **Financial analysis and data visualization projects**  
 
-- 👯 I’m looking to collaborate on **Data visualization using Power BI and Excel**  
+## 🌱 Currently Learning  
+- **Financial Modeling (Finance Veda)**  
+- **Power BI Dashboard (Excelir)**  
+- **Generative AI (Google)**  
+- **Bloomberg Market Concepts**  
 
-- 🤝 I’m looking for help with **Advanced Power BI, SQL projects, and Investment Portfolio Analysis**  
+## 👯 Looking to Collaborate On  
+- **Data visualization using Power BI and Excel**  
 
-- 💬 Ask me about **Financial statement analysis, Investment strategies, Portfolio management, and the Impact of AI/ML on financial services**  
+## 🤝 Looking for Help With  
+- **Advanced Power BI, SQL projects, and Investment Portfolio Analysis**  
 
-- 📫 How to reach me **suprisshachaudhary@gmail.com**  
+## 💬 Ask Me About  
+- **Financial statement analysis, Investment strategies, Portfolio management, and the Impact of AI/ML on financial services**  
+
+## 🏆 Certifications  
+- **Power BI Dashboard** (Excelir, 2024)  
+- **Bloomberg Market Concepts** (2024)  
+- **Financial Modeling** (Finance Veda, 2024)  
+- **Generative AI** (Google, 2024)  
+
+## 🚀 Skills  
+- **Financial Analysis & Investment Strategies**  
+- **Power BI & SQL (Beginner Level)**  
+- **Microsoft Excel & PowerPoint**  
+- **Canva (Poster Design & Presentations)**  
+- **Teamwork & Multitasking**  
+- **Openness to Learning & Adaptability**  
+
+## 🎭 Extracurricular Activities & Leadership  
+- **Alumni Relation Cell Representative** at IBS (2023-25)  
+- **Class Representative** at IBS (2023-24)  
+- **Event Organizer** for **BLITZKRIEG’23 & IMPRINTS’24** at IBS  
+- **Designed & created event posters** on Canva  
+- **Live project with Dream Girl Foundation (NGO) to teach underprivileged kids**  
+
+## 📫 How to Reach Me  
+**Email:** suprisshachaudhary@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
