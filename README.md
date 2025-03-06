@@ -7,8 +7,6 @@
 
 <h3 align="center">A Finance Enthusiast with expertise in Financial Analysis, Power BI, and Investment Strategies</h3>
 
-A Finance Enthusiast with expertise in Financial Analysis, Power BI, and Investment Strategies</h3>
-
 🔹 **Education:**  
 - Pursuing PGPM in Finance (IBS Gurgaon, 2025)  
 - Bachelor's in Arts (Delhi University, 2022)
