@@ -48,6 +48,7 @@ A Finance Enthusiast with expertise in Financial Analysis, Power BI, and Investm
 - Power BI, SQL, Excel, PowerPoint, Canva  
 - Teamwork, Multitasking, Communication  
 
+_ _ _
 🔹 **Extra-Curricular:**  
 - Alumni & Class Representative (IBS)  
 - Organized IBS Events – BLITZKRIEG’23 & IMPRINTS’24  
