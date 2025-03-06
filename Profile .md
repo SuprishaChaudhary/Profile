@@ -3,7 +3,15 @@ Hello World , Here is my Profile
 <h1 align="center">Hi 👋, I'm Suprisha Chaudhary</h1> 
 <h3 align="center">A Finance Enthusiast with expertise in Financial Analysis, Power BI, and Investment Strategies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suprishachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="suprishachaudhary" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=suprishachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="suprishachaudhary" /> 
+</p>
+
+- 🎓 **Education:**  
+  - **PGPM in Finance** (Pursuing) - **IBS Gurgaon** (2025, 6.85 CGPA)  
+  - **Bachelor of Arts** - **Delhi University** (2022, 57.24%)  
+  - **XII (CBSE)** - **Queen Mary’s School** (2018, 66.6%)  
+  - **X (CBSE)** - **Queen Mary’s School** (2016, 6.6 CGPA)  
 
 - 🔭 I’m currently working on **Financial analysis and data visualization projects**  
 
