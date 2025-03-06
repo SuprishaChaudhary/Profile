@@ -1,1 +1,43 @@
-**I am Suprisha Chaudhary, a finance professional currently pursuing my PGPM at IBS Gurgaon. My experience includes an internship at Integra Capital, where I conducted financial analysis, optimized customer portfolios, and prepared equity research reports. Previously, as an Operations Manager at Paisa Arrangers, I managed loan application processes and enhanced client satisfaction, achieving a 95% rating through effective communication and problem-solving. I hold certifications in Power BI, Bloomberg Market Concepts, and Financial Modeling, showcasing my analytical and technical skills. My projects include financial analysis of Tata Motors and dashboard creation using Excel and Power BI. Looking ahead, I aspire to build a career in financial analysis, investment management, or fintech, leveraging my skills in data-driven decision-making and portfolio optimization. My goal is to contribute to organizations that value financial innovation and strategic insights.**
+
+🔹 **Education:**  
+- Pursuing PGPM in Finance (IBS Gurgaon, 2025)  
+- Bachelor's in Arts (Delhi University, 2022)
+  
+  --- 
+🔹 **Work Experience:**  
+- **Operations Manager, Paisa Arrangers (2021-2022)**  
+  - Managed loan applications, approvals, and disbursements.  
+  - Ensured regulatory compliance and high client satisfaction.
+    
+--- 
+🔹 **Internship:**  
+- **Finance Intern, Integra Capital**  
+  - Conducted financial analysis to evaluate MF & stock performance.  
+  - Optimized client portfolios and crafted equity reports.  
+
+--- 
+🔹 **Key Projects:**  
+- Financial Analysis of TATA Motors  
+- Excel & Power BI Dashboards on Business Data  
+- Live Project with Dream Girl Foundation (NGO)  
+
+--- 
+🔹 **Certifications:**  
+- Power BI Dashboard (EXCELIR)  
+- Bloomberg Market Concepts  
+- Financial Modeling (Finance Veda)  
+- Generative AI (Google)  
+--- 
+🔹 **Awards & Achievements:**  
+- Attended Financial Fraud & RBI Ombudsman Scheme Townhall  
+- National Business Conclave 2023 (IBS)  
+- 95% Client Satisfaction (Paisa Arrangers)
+   
+--- 
+🔹 **Skills:**  
+- Power BI, SQL, Excel, PowerPoint, Canva  
+- Teamwork, Multitasking, Communication  
+
+🔹 **Extra-Curricular:**  
+- Alumni & Class Representative (IBS)  
+- Organized IBS Events – BLITZKRIEG’23 & IMPRINTS’24  
